@@ -95,7 +95,7 @@ header .fa-bars {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url('../akki.jpg');
+    background-image: url('akki.jpg');
     background-size: cover;
     background-position: center;
 }
